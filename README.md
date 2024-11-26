@@ -129,11 +129,6 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
----
-
-## Contributors
-
-This project was completed by a group of 3 contributors as part of a learning activity.
 
 ---
 
